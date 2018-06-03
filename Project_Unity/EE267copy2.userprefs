@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Fruit.cs">
+    <Files>
+      <File FileName="Assets\ReadUSB.cs" Line="55" Column="4" />
+      <File FileName="Assets\ReadUSB2.cs" Line="71" Column="61" />
+      <File FileName="Assets\SwordCutter.cs" Line="54" Column="3" />
+      <File FileName="Assets\Fruit.cs" Line="14" Column="1" />
+      <File FileName="Assets\FruitSpawner.cs" Line="33" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
