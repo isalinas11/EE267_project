@@ -29,15 +29,20 @@ public class DestroyByContact : MonoBehaviour {
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Target")
+        if (other.tag == "Target" || other.tag == "FlareTarget" )
         {
             scoreboard1.UpdateScore();
             scoreboard2.UpdateScore();
+            //Destroy(other.transform.parent.gameObject);
             Destroy(other.gameObject);
             //Destroy(gameObject);
             Destroy(GameObject.Find("Arrow_Small(Clone)"));
             Instantiate(explosion, transform.position, transform.rotation);
 
+        }   
+        if (other.tag == "FlareTarget")
+        {
+            Destroy(other.transform.parent.gameObject);
         }
         if (other.tag == "Boundary")
         {

@@ -13,7 +13,7 @@ public class FPSController : MonoBehaviour {
   public float pitchRange = 60.0f;
 
   float verticalVelocity = 0;
-  float jumpSpeed = 5.0f;
+  float jumpSpeed = 15.0f;
 
   CharacterController characterController;
 
