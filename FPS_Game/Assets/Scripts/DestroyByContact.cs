@@ -5,7 +5,8 @@ using UnityEngine;
 public class DestroyByContact : MonoBehaviour {
 
     public GameObject explosion;
-    public Score scoreboard;
+    public Score scoreboard1;
+    public Score scoreboard2;
 
     //public int scoreValue;
     //private GameController gameController;
@@ -30,7 +31,8 @@ public class DestroyByContact : MonoBehaviour {
     {
         if (other.tag == "Target")
         {
-            scoreboard.UpdateScore();
+            scoreboard1.UpdateScore();
+            scoreboard2.UpdateScore();
             Destroy(other.gameObject);
             //Destroy(gameObject);
             Instantiate(explosion, transform.position, transform.rotation);

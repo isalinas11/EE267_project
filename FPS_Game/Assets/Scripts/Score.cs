@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class Score : MonoBehaviour {
 
-  int numTargets = 11;
+  int numTargets = 13;
   public Text scoreText;
 
   IEnumerator Start () {

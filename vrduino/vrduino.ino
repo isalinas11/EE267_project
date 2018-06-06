@@ -35,7 +35,9 @@ PoseTracker tracker(alphaImuFilter, baseStationMode, simulateLighthouse);
 void setup() {
 
   Serial.begin(115200);
-  // Serial.setTimeout(5000);
+  // while ( !Serial ) {
+  // }
+
   if (test) {
 
     delay(500);
@@ -102,7 +104,7 @@ void loop() {
   // double roll = tracker.getBaseStationRoll();
   // int mode = tracker.getBaseStationMode();
   // const unsigned long * numPulseDetections = tracker.getNumPulseDetections();
-  const double * position = tracker.getPosition();
+  // const double * position = tracker.getPosition();
   // const double * position2D = tracker.getPosition2D();
   const Quaternion& quaternionComp = tracker.getQuaternionComp();
   // const Quaternion& quaternionHm = tracker.getQuaternionHm();
@@ -120,6 +122,7 @@ void loop() {
   if (imuTrack == 1) {
 
   //print quaternion from imu
+    delay(60);
     Serial.printf("QC %.3f %.3f %.3f %.3f\n",
       quaternionComp.q[0], quaternionComp.q[1],
       quaternionComp.q[2], quaternionComp.q[3]);
