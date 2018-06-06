@@ -35,10 +35,17 @@ public class DestroyByContact : MonoBehaviour {
             scoreboard2.UpdateScore();
             Destroy(other.gameObject);
             //Destroy(gameObject);
+            Destroy(GameObject.Find("Arrow_Small(Clone)"));
             Instantiate(explosion, transform.position, transform.rotation);
 
-            //gameController.AddScore(scoreValue);
         }
+        if (other.tag == "Boundary")
+        {
+            //Destroy(gameObject);
+            Destroy(GameObject.Find("Arrow_Small(Clone)"));
+
+        }
+
 
 	}
 }

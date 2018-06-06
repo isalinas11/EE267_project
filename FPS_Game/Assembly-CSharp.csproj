@@ -124,6 +124,7 @@
     <Compile Include="Assets\Scripts\ArrowMover.cs" />
     <Compile Include="Assets\Scripts\CrossBowShooting.cs" />
     <Compile Include="Assets\Scripts\DestroyByContact.cs" />
+    <Compile Include="Assets\Scripts\DestroyByTime.cs" />
     <Compile Include="Assets\Scripts\FPSController.cs" />
     <Compile Include="Assets\Scripts\RandomRotator.cs" />
     <Compile Include="Assets\Scripts\ReadUSB.cs" />
@@ -213,10 +214,10 @@
     <None Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
     <None Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/ashwiniramamoorthy/Desktop/EE267/EE267_Project/FPS_Game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/ashwiniramamoorthy/Desktop/EE267/Project/EE267_project/FPS_Game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/ashwiniramamoorthy/Desktop/EE267/EE267_Project/FPS_Game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/ashwiniramamoorthy/Desktop/EE267/Project/EE267_project/FPS_Game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -414,7 +415,7 @@
       <HintPath>/Applications/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Google.ProtocolBuffers">
-      <HintPath>/Users/ashwiniramamoorthy/Desktop/EE267/EE267_Project/FPS_Game/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+      <HintPath>/Users/ashwiniramamoorthy/Desktop/EE267/Project/EE267_project/FPS_Game/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>/Users/ashwiniramamoorthy/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
