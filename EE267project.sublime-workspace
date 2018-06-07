@@ -1,0 +1,1056 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ro",
+				"rotation"
+			],
+			[
+				"rot",
+				"Rotation"
+			],
+			[
+				"C",
+				"CharacterController"
+			],
+			[
+				"speed",
+				"speedScale"
+			],
+			[
+				"for",
+				"forwardSpeed"
+			],
+			[
+				"init",
+				"initialState"
+			],
+			[
+				"crea",
+				"createStore"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"btn",
+				"btn"
+			],
+			[
+				"cb",
+				"cbModal"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"html",
+				"htmlTemplate"
+			],
+			[
+				"moda",
+				"modalHeight"
+			],
+			[
+				"no",
+				"normalMat"
+			],
+			[
+				"dire",
+				"direction"
+			],
+			[
+				"NUM",
+				"NUM_DIR_LIGHTS"
+			],
+			[
+				"nor",
+				"normalCam"
+			],
+			[
+				"view",
+				"viewMat"
+			],
+			[
+				"frag",
+				"fragPosCam"
+			],
+			[
+				"am",
+				"ambientReflection"
+			],
+			[
+				"AMB",
+				"ambientReflection"
+			],
+			[
+				"spe",
+				"specularReflection"
+			],
+			[
+				"diff",
+				"diffuseReflection"
+			],
+			[
+				"amb",
+				"ambientLightColor"
+			],
+			[
+				"vec",
+				"vec3"
+			],
+			[
+				"ref",
+				"reflect"
+			],
+			[
+				"norma",
+				"normalize"
+			],
+			[
+				"ve",
+				"vec3"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"norm",
+				"normalMat"
+			],
+			[
+				"norl",
+				"normalMat"
+			],
+			[
+				"normal",
+				"normalMat"
+			],
+			[
+				"spec",
+				"specularReflection"
+			],
+			[
+				"di",
+				"distance"
+			],
+			[
+				"poin",
+				"pointLights"
+			],
+			[
+				"pion",
+				"pointLights"
+			],
+			[
+				"poi",
+				"pointLights"
+			],
+			[
+				"ambi",
+				"ambientReflection"
+			],
+			[
+				"viwe",
+				"viewerPosition"
+			],
+			[
+				"viewer",
+				"viewerPosition"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"make",
+				"makeTranslation"
+			],
+			[
+				"T",
+				"THREE"
+			],
+			[
+				"vier",
+				"viewerTarget"
+			],
+			[
+				"vi",
+				"viewerPosition"
+			],
+			[
+				"matri",
+				"Matrix4"
+			],
+			[
+				"mod",
+				"modelRotation"
+			],
+			[
+				"model",
+				"modelRotation"
+			],
+			[
+				"Ma",
+				"Matrix4"
+			],
+			[
+				"mo",
+				"modelMat"
+			],
+			[
+				"mode",
+				"modelTranslation"
+			],
+			[
+				"prev",
+				"previousPosition"
+			],
+			[
+				"previ",
+				"previousPosition"
+			],
+			[
+				"thre",
+				"THREE"
+			],
+			[
+				"previo",
+				"previousPosition"
+			],
+			[
+				"previou",
+				"previousPosition"
+			],
+			[
+				"upv",
+				"upvoteCount"
+			],
+			[
+				"post",
+				"postElement"
+			],
+			[
+				"pos",
+				"postElement"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"load",
+				"loadAll"
+			],
+			[
+				"Json",
+				"JSON"
+			],
+			[
+				"api",
+				"api"
+			],
+			[
+				"sear",
+				"SEARCH_URL"
+			],
+			[
+				"FL",
+				"FLICKR_API_KEY"
+			],
+			[
+				"YT",
+				"YT_EMBED_URL"
+			],
+			[
+				"SC",
+				"SC_EMBED_URL"
+			],
+			[
+				"numM",
+				"numMovies"
+			],
+			[
+				"mat",
+				"matches"
+			],
+			[
+				"mov",
+				"movie_vec"
+			],
+			[
+				"moi",
+				"movieTitles"
+			],
+			[
+				"num",
+				"numPossibleMatches"
+			],
+			[
+				"word",
+				"wordSentiment"
+			],
+			[
+				"wo",
+				"wordSentiment"
+			],
+			[
+				"ti",
+				"titles"
+			],
+			[
+				"poss",
+				"possibleMatches"
+			],
+			[
+				"is",
+				"is_turbo"
+			],
+			[
+				"ra",
+				"randint"
+			],
+			[
+				"movie",
+				"movieTitles"
+			],
+			[
+				"a",
+				"am"
+			],
+			[
+				"de",
+				"deleteBtn"
+			],
+			[
+				"en",
+				"entryElement"
+			],
+			[
+				"new",
+				"newBtn"
+			],
+			[
+				"entr",
+				"entries"
+			],
+			[
+				"add",
+				"addBtn"
+			],
+			[
+				"at",
+				"activeEntryData"
+			],
+			[
+				"ent",
+				"entries"
+			],
+			[
+				"acti",
+				"activeEntryData"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"clue",
+				"clue_entity"
+			],
+			[
+				"feat",
+				"features"
+			],
+			[
+				"wiki",
+				"wiki_filename"
+			],
+			[
+				"clu",
+				"clue_entity"
+			],
+			[
+				"fina",
+				"findall"
+			],
+			[
+				"ext",
+				"extract_entity"
+			],
+			[
+				"entity",
+				"entityType"
+			],
+			[
+				"featu",
+				"feature_extractor"
+			],
+			[
+				"par",
+				"parsed_clues"
+			],
+			[
+				"parse",
+				"parsed_clue"
+			],
+			[
+				"class",
+				"classifier"
+			],
+			[
+				"rend",
+				"renderQuestions"
+			],
+			[
+				"qes",
+				"questionText"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"que",
+				"questionList"
+			],
+			[
+				"qus",
+				"questionObj"
+			],
+			[
+				"qu",
+				"questionList"
+			],
+			[
+				"questi",
+				"questionList"
+			],
+			[
+				"resolve",
+				"resolveBtn"
+			],
+			[
+				"resol",
+				"resolveBtn"
+			],
+			[
+				"reso",
+				"resolveBtn"
+			],
+			[
+				"respon",
+				"response"
+			],
+			[
+				"quesion",
+				"questionList"
+			],
+			[
+				"righ",
+				"rightPane"
+			],
+			[
+				"rig",
+				"rightPane"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"ex",
+				"expandedQuestion"
+			],
+			[
+				"remove",
+				"removeChildren"
+			],
+			[
+				"first",
+				"firstElementChild"
+			],
+			[
+				"getE",
+				"getElementById"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "FPS_Game/Assets/Scripts/FPSController.cs",
+			"settings":
+			{
+				"buffer_size": 1600,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "FPS_Game/Assets/Scripts/Score.cs",
+			"settings":
+			{
+				"buffer_size": 714,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "EE267project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 112,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vrduino/vrduino.ino",
+			"settings":
+			{
+				"buffer_size": 2695,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "FPS_Game/Assets/Scripts/ReadUSB2.cs",
+			"settings":
+			{
+				"buffer_size": 1554,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package c",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/FPS_Game",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/FPS_Game/Assets",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/FPS_Game/Assets/Scripts",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/Project_Unity",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/Project_Unity/Assets",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/vrduino"
+	],
+	"file_history":
+	[
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/FPS_Game/Assets/Scripts/Score.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/FPS_Game/Assets/Cardboard/Scripts/CardboardEye.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/FPS_Game/Assets/Cardboard/Scripts/StereoController.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/vrduino/OrientationTracker.cpp",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/vrduino/OrientationTracker.h",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/vrduino/PoseTracker.h",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/vrduino/PoseTracker.cpp",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/FPS_Game/Assets/Scripts/ReadUSB.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/FPS_Game/Assets/Scripts/ReadUSB2.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/vrduino/vrduino.ino",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/Project_Unity/Assets/EE267project.sublime-project",
+		"/Applications/Unity/Documentation/en/Manual/class-InputManager.html",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/FPS_Game/Assets/Cardboard/Scripts/Cardboard.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/Project_Unity/Assets/ReadUSB2.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/Project_Unity/Assets/ReadUSB.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/Target Practice/Assets/SwordCutter.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/Target Practice/Assets/ReadUSB.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/EE267project.sublime-project",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/Target Practice/Assets/BLINDED_AM_ME package/Scripts/ParticlePathFlow.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/ee267_unity_starter_project/Project_Unity/Assets/ReadUSB2.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/ee267_unity_starter_project/Project_Unity/Assets/ReadUSB.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/ee267_unity_starter_project/vrduino/vrduino.ino",
+		"/Users/isalinas/Downloads/ee267_unity_starter_project/Project_Unity/Assets/ReadUSB.cs",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/ee267_unity_starter_project/Project_Unity/Assets/Cardboard/Scripts/StereoController.cs",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/app/reducers/todos.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/app/containers/App.js",
+		"/Users/isalinas/Documents/Stanford/cs50/todoapp/chrome/extension/todoapp.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/webpack/dev.config.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/extension/injectPopup.js",
+		"/Users/isalinas/Documents/Stanford/cs42/React Workshop/react-workshop-completed/js/script.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/extension/inject.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/ee267_unity_starter_project/Project_Unity/Library/UnityAssemblies/UnityEngine.xml",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/ee267_unity_starter_project/Project_Unity/Library/UnityAssemblies/UnityEngine.Networking.xml",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/ee267_unity_starter_project/Project_Unity/Library/UnityAssemblies/UnityEditor.xml",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/project/README.md",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/README.md",
+		"/Users/isalinas/Documents/Stanford/cs42/React Workshop/react-workshop-completed/index.html",
+		"/Users/isalinas/Documents/Stanford/cs42/React Workshop/react-workshop-master/js/script.js",
+		"/Users/isalinas/Documents/Stanford/cs42/React Workshop/react-workshop-master/index.html",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/extension/boilerplate_example/todoapp.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/webpack/prod.config.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/extension/TabsCbbModal.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/extension/CbbModalTabs.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/extension/CbbModal.js",
+		"/Users/isalinas/Documents/Stanford/cs50/todoapp/chrome/extension/inject.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/app/store/configureStore.dev.js",
+		"/Users/isalinas/Documents/Stanford/cs50/guide-comment-insert--react/app/utils/storage.js",
+		"/Users/isalinas/Documents/Stanford/cs50/guide-comment-insert--react/chrome/extension/inject.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/app/components/MainSection.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/views/popup.pug",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/manifest.prod.json",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/build/manifest.json",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/manifest.dev.json",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/views/window.pug",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/views/inject.pug",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/views/background.pug",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/dev/manifest.json",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/build 2/manifest.json",
+		"/Users/isalinas/Documents/Stanford/cs50/build/manifest.json",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/CBB.sublime-project",
+		"/Users/isalinas/Documents/Stanford/cs50/guide-comment-insert--react/app/components/MainSection.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/extension/background/inject.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/extension/ResourcesThisPage.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/dev/inject.html",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/extension/inject-CBB-only-v.15.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better2/chrome/extension/inject.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better2/chrome/views/popup.pug",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/build/popup.html",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/README_key-files.txt",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/dev/popup.html",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/chrome/assets/bccModal.html",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/node_modules/caniuse-db/features-json/html5semantic.json",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework4/EE267HW4.sublime-project",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/dev/cbbModal.css",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/dev/better_comment.css",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/shaders/vShaderMultiPhong.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/shaders/fShaderPhong.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/render.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/standardRenderer.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/stateController.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/shaders/fShaderMultiPhong.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/shaders/vShaderPhong.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/shaders/vShaderGouraudDiffuse.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/shaders/vShaderGouraud.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/shaders/fShaderGouraud.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/shaders/fShaderGouraudDiffuse.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/shaders/vShaderGouraudAmbient.js",
+		"/Users/isalinas/Documents/Stanford/cs50/comment-better/dev/bccModal.html",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework2/js/transform.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework1/js/standardRenderer.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework1/js/teapot.js",
+		"/Users/isalinas/Documents/Stanford/ee267/ee267_hw/homework1/js/render.js",
+		"/Users/isalinas/Documents/Stanford/cs50/build/inject.html",
+		"/Users/isalinas/Documents/Stanford/cs50/build/bccModal.html",
+		"/Users/isalinas/Documents/Stanford/cs50/build/background.html",
+		"/Users/isalinas/Documents/Stanford/cs50/build/bccModal_longer.html",
+		"/Users/isalinas/Documents/Stanford/cs50/build/js/inject.bundle.js",
+		"/Users/isalinas/Documents/Stanford/cs50/build/js/background.bundle.js",
+		"/Users/isalinas/Documents/Stanford/cs124/pa4-ir-2018/python/IRSystem.py",
+		"/Users/isalinas/Documents/Stanford/cs124/spamlord-v14/python/SpamLord.py",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/public/js/newsfeed-view.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/public/js/grid.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/public/js/templates.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/public/js/search-view.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/public/js/post-model.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/server.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/lib/post.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/public/js/search-model.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/lib/flickr.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/public/js/main-view.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/public/js/main.js",
+		"/Users/isalinas/Documents/Stanford/cs42/yelp-winter-2018-GetHub91/js/entry-model.js",
+		"/Users/isalinas/Documents/Stanford/cs42/yelp-winter-2018-GetHub91/js/editing-entry-view.js",
+		"/Users/isalinas/Documents/Stanford/cs42/yelp-winter-2018-GetHub91/js/entry-view.js",
+		"/Users/isalinas/Documents/Stanford/cs42/yelp-winter-2018-GetHub91/js/main-view.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/lib/soundcloud.js",
+		"/Users/isalinas/Documents/Stanford/cs42/newsfeed-winter-2018-GetHub91/lib/youtube.js",
+		"/Users/isalinas/Documents/Stanford/cs124/pa6-v3/chatbot.py",
+		"/Users/isalinas/Documents/Stanford/cs124/pa6-v3/movielens.py",
+		"/Users/isalinas/Documents/Stanford/cs124/pa4-ir-2018/python/PorterStemmer.py",
+		"/Users/isalinas/Documents/Stanford/cs124/pa6-v3/data/movies.txt",
+		"/Users/isalinas/Documents/Stanford/cs42/yelp-winter-2018-GetHub91/js/creating-entry-view.js",
+		"/Users/isalinas/Desktop/yelp/js/entry-model.js",
+		"/Users/isalinas/Desktop/yelp/js/creating-entry-view.js",
+		"/Users/isalinas/Desktop/yelp/js/entry-view.js",
+		"/Users/isalinas/Documents/Stanford/cs42/piazza-winter-2018-GetHub91/js/script.js",
+		"/Users/isalinas/Documents/Stanford/cs42/yelp/js/main-view.js",
+		"/Users/isalinas/Documents/Stanford/cs42/yelp/js/main.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rotate",
+			"ipd",
+			"controller",
+			"stereoMultiplier",
+			"ipd",
+			"stereoMultiplier",
+			"ipd",
+			"quaternionComp",
+			"getQ",
+			"readub",
+			"rotationSpeed"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rotationSensitivity"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "FPS_Game/Assets/Scripts/FPSController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "FPS_Game/Assets/Scripts/Score.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "EE267project.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "vrduino/vrduino.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2092,
+								2092
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1563.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "FPS_Game/Assets/Scripts/ReadUSB2.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1263,
+								1263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 454.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "EE267project.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".sub",
+				"comment-better/CBB.sublime-project"
+			],
+			[
+				"popup",
+				"chrome/views/popup.pug"
+			],
+			[
+				"todoapp",
+				"chrome/extension/boilerplate_example/todoapp.js"
+			],
+			[
+				"pop",
+				"dev/popup.html"
+			],
+			[
+				"html",
+				"node_modules/caniuse-db/features-json/html5semantic.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Stanford/cs50/comment-better/CBB.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 800.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+  "syntax_override":
+  {
+    "\\.cs$": ["Unity3D", "UnityC#"]
+  }
+}

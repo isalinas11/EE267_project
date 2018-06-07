@@ -6,7 +6,7 @@ using UnityEngine;
 public class FPSController : MonoBehaviour {
 
   public float movementSpeed = 10.0f;
-  public float rotationSensitivity = 5.0f;
+  public float rotationSensitivity = 7.0f;
 
   float pitch = 0;
   float yaw = 0;

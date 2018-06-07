@@ -53,7 +53,7 @@ public class ReadUSB2 : MonoBehaviour {
         
         Quaternion q = new Quaternion( float.Parse(line[2]),
           float.Parse(line[3]),
-          float.Parse(line[4]),
+          -float.Parse(line[4]),
           float.Parse(line[1]));
 
         transform.rotation = Quaternion.Inverse(q);
