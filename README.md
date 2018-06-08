@@ -22,13 +22,15 @@ or
 > The type or namespace name 'SerialPort' could not be found.
 
 Go to 
-'''
+```
 Edit > Project Settings > Player > Other Settings > Configuration
-'''
+```
 
 from the menu bar, and change the API Compatibility Level from .NET 2.0 Subset to .NET 2.0.
 
+
 If you've attempted to play the game and experience double vision, select CardboardMain from the project Hierarchy window and change the screensize in the Inspector window. We used a Nexus 6 screen size.
+
 
 If you receive an error
 > InvalidOperationException: Specified port is not open.
@@ -37,6 +39,7 @@ this is because your VRduino is not connected. You can eliminate this issue by
 1. Feeding data from your VRduino into the appropriate port
    - On a Mac, open Terminal and enter ls /dev/ and you should see "/dev/cu.usbmodem" + some number. Assign this value to portName in the script Assets/Scripts/ReadUSB.cs script 
 2. Open the Inspector window, select "Player", and disable the ReadUSB2 script
+
 
 If you get a timeout error, you can play around with the delay in your project/vrduino/vrduino.ino file on line 125.
 
