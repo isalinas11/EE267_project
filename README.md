@@ -22,7 +22,9 @@ or
 > The type or namespace name 'SerialPort' could not be found.
 
 Go to 
-> Edit > Project Settings > Player > Other Settings > Configuration
+'''
+Edit > Project Settings > Player > Other Settings > Configuration
+'''
 
 from the menu bar, and change the API Compatibility Level from .NET 2.0 Subset to .NET 2.0.
 
