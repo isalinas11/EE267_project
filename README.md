@@ -3,7 +3,7 @@ This is a repository for the final project of EE267 (Spring 2018, Stanford Unive
 
 This game is a simple first-person shooter only complex enough for the final demonstration of our headsets.
 
-## Opening the Project in Unity
+### Opening the Project in Unity
 
 Note: I've deleted the Library and Temp directories for portability; both are automatically generated when you open up a new project.
 
@@ -17,21 +17,24 @@ Note: I've deleted the Library and Temp directories for portability; both are au
 
 If you attempt to open the project and you're getting compiler errors:
 > The type or namespace name 'Ports' does not exist in the namespace 'System.IO'.
+
 or 
 > The type or namespace name 'SerialPort' could not be found.
+
 Go to 
 > Edit > Project Settings > Player > Other Settings > Configuration
+
 from the menu bar, and change the API Compatibility Level from .NET 2.0 Subset to .NET 2.0.
 
 If you've attempted to play the game and experience double vision, select CardboardMain from the project Hierarchy window and change the screensize in the Inspector window. We used a Nexus 6 screen size.
 
 If you receive an error
 > InvalidOperationException: Specified port is not open.
+
 this is because your VRduino is not connected. You can eliminate this issue by 
 1. Feeding data from your VRduino into the appropriate port
    - On a Mac, open Terminal and enter ls /dev/ and you should see "/dev/cu.usbmodem" + some number. Assign this value to portName in the script Assets/Scripts/ReadUSB.cs script 
 2. Open the Inspector window, select "Player", and disable the ReadUSB2 script
-
 
 If you get a timeout error, you can play around with the delay in your project/vrduino/vrduino.ino file on line 125.
 
