@@ -1,37 +1,35 @@
 # EE267 Project - First Person Shooter
-This is a repository for the final project of EE267 (Spring 2018, Stanford University)(https://stanford.edu/class/ee267/).
-
-This game is a simple first-person shooter only complex enough for the final demonstration of our headsets.
+This is a repository for a first-person shooter game, meant to work with the Viewmaster head mount and VRduino. It was created as a course project for EE267 (Spring 2018, Stanford University)(https://stanford.edu/class/ee267/).
 
 ### Opening the Project in Unity
-
-Note: I've deleted the Library and Temp directories for portability; both are automatically generated when you open up a new project.
-
 1. Clone or download/unzip the project
 2. Open the project (FPS_Game) from Unity
 3. If the scene is empty and untitled, open Scene_1.unity from Assets/Scenes
 4. Wait for the scene to finish baking
    - There might be lighting issues if you don't wait for the baking to finish.
 
-## Potential Errors
+Note: I've deleted the Library and Temp directories for portability; both are automatically generated when you open up a new project.
 
-If you attempt to open the project and you're getting compiler errors:
+## Potential Errors
+#### 1
+
+If you are getting the following compiler errors when you attempt to open the project:
 > The type or namespace name 'Ports' does not exist in the namespace 'System.IO'.
 
 or 
 > The type or namespace name 'SerialPort' could not be found.
 
-Go to 
+then go to 
 ```
 Edit > Project Settings > Player > Other Settings > Configuration
 ```
 
 from the menu bar, and change the API Compatibility Level from .NET 2.0 Subset to .NET 2.0.
 
-
+#### 2
 If you've attempted to play the game and experience double vision, select CardboardMain from the project Hierarchy window and change the screensize in the Inspector window. We used a Nexus 6 screen size.
 
-
+#### 3
 If you receive an error
 > InvalidOperationException: Specified port is not open.
 
@@ -40,8 +38,8 @@ this is because your VRduino is not connected. You can eliminate this issue by
    - On a Mac, open Terminal and enter ls /dev/ and you should see "/dev/cu.usbmodem" + some number. Assign this value to portName in the script Assets/Scripts/ReadUSB.cs script 
 2. Open the Inspector window, select "Player", and disable the ReadUSB2 script
 
-
-If you get a timeout error, you can play around with the delay in your project/vrduino/vrduino.ino file on line 125.
+#### 4
+If you get a timeout error, you can adjust the delay in your project/vrduino/vrduino.ino file on line 125.
 
 # Gameplay
 
